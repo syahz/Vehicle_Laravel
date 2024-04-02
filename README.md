@@ -11,3 +11,6 @@
 
 -   Using Mysql for Database
 -   [Detail API Document bisa diakses disini ╰(_°▽°_)╯](https://documenter.getpostman.com/view/12664348/2sA35JyzSz).
+
+### Database Design
+![diagram-export-4-2-2024-10_08_55-PM](https://github.com/syahz/vehicle_rent/assets/42687844/552e9505-e306-44fd-af5e-b59e8bb42934)
